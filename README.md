@@ -1,6 +1,7 @@
 # SOFE3650_FinalProject_YeezyBooks
 ## Table Of Contents
 1. [Project Proposal](https://github.com/joshRam0214/SOFE3650_FinalProject_YeezyBooks/tree/main/Final%20Project%20Proposal)
+2. [Progress Report](https://github.com/joshRam0214/SOFE3650_FinalProject_YeezyBooks/tree/main/Final%20Project%20Progress%20Report)
 
 
 ## Contributers
