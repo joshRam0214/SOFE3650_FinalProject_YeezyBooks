@@ -10,4 +10,4 @@
 
 
 ## Contributers
-### Aryan Singh(100748196), Joshua Ramnaraine(100692194), Frederick Tettteh(100569808)
+### Aryan Singh(100748196), Joshua Ramnaraine(100692194), Frederick Tettteh(100569808), Fayomi Toyin(100765921)
